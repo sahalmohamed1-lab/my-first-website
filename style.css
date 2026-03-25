@@ -69,6 +69,7 @@ footer {
 }  
 table.html-table {
     flex-wrap: wrap;
+    flex-grow: var(--image-ratio);
     width: 50%;
     margin: 2em auto;
     border-collapse: collapse;
