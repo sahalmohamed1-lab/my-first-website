@@ -68,14 +68,17 @@ footer {
     position: relative; 
 }  
 table.html-table {
+    flex-wrap: wrap;
     width: 50%;
     margin: 2em auto;
     border-collapse: collapse;
 }
 table, th, td {
-    border: 1px solid black;
+    flex-wrap: wrap;
+    border: 1em solid black;
 }
 th, td { 
+    flex-wrap: wrap;
     padding: 0.5em;
     text-align: center;
 } 
