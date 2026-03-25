@@ -1,4 +1,4 @@
-### City Football Academy website
+### City Stars Football Academy website
 > A website containing the details about City Football Academy 
 
 ## Table of content
