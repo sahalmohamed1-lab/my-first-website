@@ -1,4 +1,5 @@
 title {
+    flex-wrap: wrap;
     font-size: large;
     background-color: aquamarine;
     color: black;
@@ -6,18 +7,21 @@ title {
     text-align: center;
     }
 body {
+    flex-wrap: wrap;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: lightskyblue;
 }
 header {
+    flex-wrap: wrap;
     background-color: rgb(127, 240, 255);
     color: black;
     text-align: center;
     padding: 1em;
 }
 h2 {
+    flex-wrap: wrap;
     color: black;
     text-align: center;
     margin-top: 2em;
@@ -36,22 +40,26 @@ nav ul {
 }
 
 nav ul li {
+    flex: auto;
     display: inline;
     margin-right: 0.5em;
 }
 p {
+    flex-wrap: wrap;
     font-size: medium;
     color: black;
     background-color: rgb(173, 228, 230);
     padding: 1em;
 }
 .academy-image {
+    flex-grow: var(--image-ratio);
     display: block;
     margin: 2em auto;
     max-width: 100%;
     height: auto;
 }
 footer {
+    flex-wrap: wrap;
     background-color: aquamarine;
     color: black;
     text-align: center;
@@ -70,6 +78,7 @@ table, th, td {
 th, td { 
     padding: 0.5em;
     text-align: center;
-}  
+} 
+
 
 
