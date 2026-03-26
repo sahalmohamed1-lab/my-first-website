@@ -17,5 +17,7 @@ git@github.com:sahalmohamed1-lab/my-first-website.git
 5. Create a pull request
 ## License 
 > This project is licensed under the [MIT License](License)
+## Author
+> Sahal Mohamed
 
 
