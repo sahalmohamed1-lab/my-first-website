@@ -2,9 +2,6 @@
 > A website containing the details about City Football Academy 
 
 ## Table of content
-``` Installation
-    Usage
-    ```
 ## Installation
 > Clone the repository
 ```bash
